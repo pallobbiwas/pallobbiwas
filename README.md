@@ -1,4 +1,4 @@
-<h1 align="center">Hi.., I am pallob👋<h1/>
+<h1 align="center">Hi.., I am pallob biswas👋<h1/>
 <h1 align="center">Junior Web Developer<h1/>
 <hr>
 
